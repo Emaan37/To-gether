@@ -1,2 +1,2 @@
-# To-Gether
+# To-gether
   Front-end Developers 
